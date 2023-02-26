@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "categoria": "valvulas",
+    "nombre": "PGV-JAR-TOP",
+    "precio": 22,
+    "caudalM3Hora": 9,
+    "img": "PGV-JAR-TOP.jpg"
+  },
+  {
+    "id": 2,
+    "categoria": "valvulas",
+    "nombre": "PGV",
+    "precio": 27,
+    "caudalM3Hora": 34,
+    "img": "PGV.jpg"
+  },
+  {
+    "id": 3,
+    "categoria": "valvulas",
+    "nombre": "ICV",
+    "precio": 78,
+    "caudalM3Hora": 68,
+    "img": "ICV.jpg"
+  }
+]

@@ -1,0 +1,232 @@
+/* NAVBAR */
+
+.nav {
+  background-color: #00658a;
+}
+
+.navbar-brand img {
+  max-height: 2.5rem;
+}
+
+.link-dark:focus, .link-dark:hover {
+  color: white !important;
+}
+
+/* CARRUSEL DE IMAGENES */
+
+.carouselIMG {
+  max-height: 100%;
+  object-fit: cover;
+  overflow: hidden;
+  position: relative;
+}
+
+/* WELCOME */
+
+#tituloPrincipal{
+  padding: 15px;
+  background-color: #00658a;
+  margin: 20px 0 20px;
+  color: white;
+  font-weight: 500;
+  text-align: center;
+}
+
+#info1{
+  margin: 30px;
+}
+
+#p1{
+  font-size: large;
+}
+
+
+/* BOTONES CON IMAGENES PARA VER ASPERSORES FILTRADOS */
+
+.btnAspersores {
+  position: relative;
+  text-align: center;
+}
+
+.btnAspersores p {
+  font-size: 1.5rem;
+  color: black;
+  font-weight: 600;
+  text-shadow: white 1px 1px 1px;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.column {
+  float: left;
+  padding: 10px;
+}
+
+.column img {
+  max-width: 100%;
+  height: 55vh;
+  opacity: 0.5;
+  cursor: pointer;
+  overflow: hidden;
+  object-fit: cover;
+  transition: 0.5s;
+  }
+
+.column img:hover {
+  opacity: 1;
+  transition: 0.5s;
+  box-shadow: 0px 0px 10px black;
+  scale: .95;
+}
+
+/* CARDS DE ASPERSORES */
+
+.bannerAsp {
+  color: white;
+  font-weight: 500;
+  box-shadow: 0 10px 10px grey;
+}
+
+.card-asp{
+margin: 15px;
+padding: 10px;
+border: none;
+border-radius: 10px;
+box-shadow: 10px 10px 15px grey;
+}
+
+.btn-asp{
+  background-color: #00658a;
+  color: white;
+}
+
+.btn-asp:hover{
+  box-shadow: 5px 5px 7.5px grey;
+}
+
+
+.bannerAsp{
+  text-align: center;
+  padding: 15px;
+  background-color: #00658a;
+}
+
+
+/* BANNER DE PROYECTOS */
+/* AREA DE CALCULOS */
+
+
+#proyectos, #areaCalculos{
+  text-align: center;
+
+}
+
+#proyectos h2, #areaCalculos h2{
+  padding: 15px;
+  background-color: #00658a;
+  margin: 20px 0 20px;
+  color: white;
+  font-weight: 500;
+  
+}
+
+#areaCalculos-P{
+margin-bottom: 20px;
+font-size: large;
+}
+
+#loaderMostrarCalculo div{
+  margin-top: 20px;
+  padding: 40px;
+  text-align: center;
+  font-weight: 600;
+}
+
+/* INPUTS */
+
+input {
+  outline: none;
+  border: none;
+  margin: 5px;
+}
+
+.input1, .form-control {
+  height: 50px;
+  border-radius: 25px;
+  padding: 0 30px;
+  display: block;
+  width: 100%;
+  background: #e6e6e6;
+  font-size: 15px;
+  line-height: 1.5;
+  color: #666;
+}
+
+.input1{
+margin: 15px 0 15px 0;
+}
+
+/* BOTONES DARK */
+.btn-dark{
+  margin: 10px 0 10px 0;
+}
+
+/* OFF CANVAS */
+
+.offcanvas{
+  --bs-offcanvas-width: 500px;
+  overflow-y: auto;
+}
+
+.offcanvas-header{
+  background: #00658a;
+  color: white;
+  font-weight: bold;
+}
+
+
+/* FOOTER */
+.footer {
+  background: #00658a;
+  color: white;
+}
+
+.footer .links ul {
+  list-style-type: none;
+}
+
+.footer .links li a {
+  color: white;
+  transition: color 0.2s;
+}
+
+.footer .links li a:hover {
+  text-decoration: none;
+  color: #4e8aa0;
+}
+
+.footer .about-company i {
+  font-size: 25px;
+}
+
+.footer .about-company a {
+  color: white;
+  transition: color 0.2s;
+}
+
+.footer .about-company a:hover {
+  color: #4e8aa0;
+}
+
+.footer .location i {
+  font-size: 18px;
+}
+
+.footer .copyright p {
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}

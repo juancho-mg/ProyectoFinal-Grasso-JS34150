@@ -1,0 +1,162 @@
+[
+  {
+    "id": 10011,
+    "categoria": "aspersores",
+    "nombre": "PGJ",
+    "precio": 2.5,
+    "radio": 4.3,
+    "caudalM3Hora": 0.13,
+    "diametroBoquilla": 0.5,
+    "img": "PGJ.jpg"
+  },
+  {
+    "id": 20022,
+    "categoria": "aspersores",
+    "nombre": "PGP-ADJ",
+    "precio": 3,
+    "radio": 6.4,
+    "caudalM3Hora": 0.1,
+    "diametroBoquilla": 0.75,
+    "img": "PGP-ADJ.jpg"
+  },
+  {
+    "id": 30033,
+    "categoria": "aspersores",
+    "nombre": "PGP-ULTRA",
+    "precio": 2.6,
+    "radio": 4.9,
+    "caudalM3Hora": 0.07,
+    "diametroBoquilla": 0.75,
+    "img": "PGP-ULTRA.jpg"
+  },
+  {
+    "id": 40044,
+    "categoria": "aspersores",
+    "nombre": "SRM",
+    "precio": 2,
+    "radio": 4,
+    "caudalM3Hora": 0.08,
+    "diametroBoquilla": 0.5,
+    "img": "SRM.jpg"
+  },
+  {
+    "id": 50055,
+    "categoria": "aspersores",
+    "nombre": "I-20",
+    "precio": 3,
+    "radio": 4.9,
+    "caudalM3Hora": 0.07,
+    "diametroBoquilla": 0.75,
+    "img": "I-20.jpg"
+  },
+  {
+    "id": 60066,
+    "categoria": "aspersores",
+    "nombre": "I-25",
+    "precio": 6,
+    "radio": 11.9,
+    "caudalM3Hora": 0.82,
+    "diametroBoquilla": 1,
+    "img": "I-25.jpg"
+  },
+  {
+    "id": 70077,
+    "categoria": "aspersores",
+    "nombre": "I-40",
+    "precio": 7,
+    "radio": 13.1,
+    "caudalM3Hora": 1.63,
+    "diametroBoquilla": 1,
+    "img": "I-40.jpg"
+  },
+  {
+    "id": 80088,
+    "categoria": "aspersores",
+    "nombre": "I-80",
+    "precio": 9,
+    "radio": 19.2,
+    "caudalM3Hora": 4.59,
+    "diametroBoquilla": 1.5,
+    "img": "I-80.jpg"
+  },
+  {
+    "id": 90099,
+    "categoria": "aspersores",
+    "nombre": "I-90",
+    "precio": 12,
+    "radio": 22.3,
+    "caudalM3Hora": 6.7,
+    "diametroBoquilla": 1.5,
+    "img": "I-90.jpg"
+  },
+  {
+    "id": 10010,
+    "categoria": "aspersores",
+    "nombre": "GT-880",
+    "precio": 15,
+    "radio": 14.9,
+    "caudalM3Hora": 3.23,
+    "diametroBoquilla": 1.5,
+    "img": "GT-880.jpg"
+  },
+  {
+    "id": 11011,
+    "categoria": "aspersores",
+    "nombre": "GT-885",
+    "precio": 13,
+    "radio": 11.3,
+    "caudalM3Hora": 2.02,
+    "diametroBoquilla": 1,
+    "img": "GT-885.jpg"
+  },
+  {
+    "id": 12012,
+    "categoria": "aspersores",
+    "nombre": "GT-835",
+    "precio": 10,
+    "radio": 5.5,
+    "caudalM3Hora": 0.43,
+    "diametroBoquilla": 0.75,
+    "img": "GT-835.jpg"
+  },
+  {
+    "id": 13013,
+    "categoria": "aspersores",
+    "nombre": "G-995",
+    "precio": 18,
+    "radio": 20.1,
+    "caudalM3Hora": 6.7,
+    "diametroBoquilla": 1.5,
+    "img": "G-995.jpg"
+  },
+  {
+    "id": 14014,
+    "categoria": "aspersores",
+    "nombre": "G-990",
+    "precio": 20,
+    "radio": 22.3,
+    "caudalM3Hora": 6.93,
+    "diametroBoquilla": 1.5,
+    "img": "G-990.jpg"
+  },
+  {
+    "id": 15015,
+    "categoria": "aspersores",
+    "nombre": "G-75-B",
+    "precio": 15,
+    "radio": 14.3,
+    "caudalM3Hora": 1.75,
+    "diametroBoquilla": 1,
+    "img": "G-75-B.jpg"
+  },
+  {
+    "id": 16016,
+    "categoria": "aspersores",
+    "nombre": "G-70-B",
+    "precio": 17,
+    "radio": 16.2,
+    "caudalM3Hora": 2.95,
+    "diametroBoquilla": 1.5,
+    "img": "G-70-B.jpg"
+  }
+]

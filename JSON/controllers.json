@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "categoria": "controllers",
+    "nombre": "ECO LOGIC",
+    "precio": 90,
+    "maxEstaciones": 6,
+    "img": "ECO-LOGIC.jpg"
+  },
+  {
+    "id": 2,
+    "categoria": "controllers",
+    "nombre": "X-CORE",
+    "precio": 110,
+    "maxEstaciones": 8,
+    "img": "X-CORE.jpg"
+  },
+  {
+    "id": 3,
+    "categoria": "controllers",
+    "nombre": "X2",
+    "precio": 260,
+    "maxEstaciones": 14,
+    "img": "X2.jpg"
+  },
+  {
+    "id": 4,
+    "categoria": "controllers",
+    "nombre": "PRO-C",
+    "precio": 320,
+    "maxEstaciones": 32,
+    "img": "PRO-C.jpg"
+  }
+]
